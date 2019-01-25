@@ -275,6 +275,7 @@ Create a wallet and returns private key and address of wallet
 **Headers**
 - apikey - ``` Your API Key ```
 - apisecret - ``` Your API Secret ```
+
 **Returns**
 
 ``` Object ```
