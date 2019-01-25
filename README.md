@@ -276,9 +276,10 @@ Create a wallet and returns private key and address of wallet
 - apikey - ``` Your API Key ```
 - apisecret - ``` Your API Secret ```
 
-**Returns**
+**Returns** 
 
 ``` Object ```
+
 - pk - ``` Object ```
 - address - ``` String ```
 
