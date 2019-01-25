@@ -1,4 +1,4 @@
-﻿﻿# General API Information
+# General API Information
 
 
 ### Endpoints
