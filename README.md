@@ -198,7 +198,7 @@ Transfer amount to another address
 **Headers**
 - apikey - ``` Your API Key ```
 - apisecret - ``` Your API Secret ```
-- authorization - ```Private Key Of Send Wallet ```
+- authorization - ```Private Key of Send Wallet ```
 
 **Returns**
 
