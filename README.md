@@ -192,6 +192,8 @@ Result
 Transfer amount to another address
 
 **Parameters**
+
+``` Object ```
 - toAddress - ``` String ```
 - amount - ``` String ```
 
@@ -212,7 +214,7 @@ Request
   {
     "jsonrpc":"2.0",
     "method":"cse_transfer",
-    "params":["CSED3092857E92424EB66B46D7", "0.1"],
+    "params":[{"toAddress":"CSED3092857E92424EB66B46D7","amount": "0.1"}],
     "id":1
   }
 ```
