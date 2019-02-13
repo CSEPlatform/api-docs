@@ -62,7 +62,7 @@ Request
   {
     "jsonrpc":"2.0",
     "method":"cse_getLatestBlock",
-    "params":["027942e9116817ef99a7098bf0cf55253a9f38a542c6f2acfe01860eadeb5cbf"],
+    "params":[""],
     "id":1
   }
 ```
@@ -292,8 +292,8 @@ Request
 ```
   {
     "jsonrpc":"2.0",
-    "method":"cse_getLatestBlock",
-    "params":["027942e9116817ef99a7098bf0cf55253a9f38a542c6f2acfe01860eadeb5cbf"],
+    "method":"cse_createWallet",
+    "params":[""],
     "id":1
   }
 ```
