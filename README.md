@@ -344,10 +344,7 @@ Result
 ```
 ---
 
-### WebSocket Streams
-
-- The base endpoint is: ws://locahost:2020
-- Streams can be access either in a single raw stream or a combined stream
+### Webhook Notification Events
 
 # `Wallet Deposited Success`
 
