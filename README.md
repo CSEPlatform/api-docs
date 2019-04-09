@@ -346,6 +346,8 @@ Result
 
 ### Webhook Notification Events
 
+CSE will send webhook events whenever you successfully receive a payment.
+
 # `Wallet Deposited Success`
 
 **Event Type:** ``` WALLET_DEPOSITED_SUCCESS ```
