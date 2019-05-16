@@ -1,8 +1,7 @@
 Overview of CSE
 =====================
 
-What is CSE?
-------------------
+# What is CSE?
 
 Blockchain’s era is extremely fast and cheap. CSE has applied the science to solve the issues: Open chain networks, Block lattice structures, Cloud nodes, Micro-Mode, Hyperthreading; Stratification; Multi-layered Security for super-speed and super-cheap purposes.
 
@@ -22,8 +21,7 @@ CSE technologies:
 3. Quantum Chip.
 4. Smart Contract 2.0.
 
-Getting started
----------------
+# Getting started
 
 To familiarize yourself with CSE, you can:
 
@@ -31,5 +29,4 @@ To familiarize yourself with CSE, you can:
 * :ref:`Try the Smart Contract 2.0` against the test endpoint
 * :ref:`CSE Server Deployment`
 
-Frequently Asked Questions
---------------------------
+# Frequently Asked Questions
