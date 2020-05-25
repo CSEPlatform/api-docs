@@ -221,7 +221,10 @@ Request
 Result
 ```
   {
-    results: true
+    result: {
+      "isSuccess": true,
+      "txId": "7548c28ef6baadc7db76aab727bdec813f47e93156fe3836fbd869a67feb43d2"
+    }
   }
 ```
 ---
