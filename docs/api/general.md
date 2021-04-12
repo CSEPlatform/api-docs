@@ -1,4 +1,4 @@
-# CSE30 API Information
+# CSE API Information
 
 
 ### Endpoints
