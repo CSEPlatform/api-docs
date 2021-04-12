@@ -19,7 +19,7 @@ This is the source repository for the [CSE] documentation.
    - [Ledger rules](./docs/guides/ledger-rules.md)
    - [Case studies](./docs/guides/case-studies)
 1. [API References](./docs/api/general.md)
-   - [CSE30 API](./docs/api/general.md)
+   - [CSE API](./docs/api/general.md)
    - [CSE30 token API](./docs/api/cse30-token-API.md)
    - [Data structure](./docs/api/data-structure.md)
    - [Method call](./docs/api/methods.md)
